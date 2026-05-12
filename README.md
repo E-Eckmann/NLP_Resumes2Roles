@@ -1,4 +1,7 @@
 # NLP_Resumes2Roles
+Link to the [Hugging Face page](https://huggingface.co/EE-512/NLP_Resume2Roles)
+Contains all saved models and vectors/embeddings
+
 Natural Language Processing project that creates a list of job roles that will match with a given resume.
 4 Vectorization methods are implemented:
 * TF-IDF
